@@ -24,6 +24,8 @@
       <relatedItems xmi:id="_e2CZXgqlEeilkaeF2pVeBA" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_e2CZXwqlEeilkaeF2pVeBA" id="GetRandomPhoneNum" version="Latest" type="routine"/>
       <relatedItems xmi:id="_e2CZYAqlEeilkaeF2pVeBA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rhuBwAqlEeilkaeF2pVeBA" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rhuBwQqlEeilkaeF2pVeBA" id="DataQualityDependencies" version="Latest" type="routine"/>
     </ItemsRelations>
     <migrationTask xmi:id="_jnl5QAqkEeilkaeF2pVeBA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_jnmgUAqkEeilkaeF2pVeBA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
