@@ -158,7 +158,7 @@
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="row1" show="false"/>
   </connection>
-  <note opaque="false" posX="64" posY="32" sizeHeight="129" sizeWidth="801" text="This is a simple random row generation job. Modified by Krishna. &#xD;&#xA;Check for this update on github......"/>
+  <note opaque="true" posX="64" posY="32" sizeHeight="129" sizeWidth="801" text="This is a simple random row generation job. Modified by Krishna. &#xD;&#xA;Check for this update on github......v2"/>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
